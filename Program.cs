@@ -56,7 +56,7 @@ namespace Atividade_DoNotRepeat
 
                 if (characterOld != characterNew)
                 {
-                    result += array[totalizer].ToString();
+                    result += characterNew;
 
                     characterOld = array[totalizer].ToString();
                 }
