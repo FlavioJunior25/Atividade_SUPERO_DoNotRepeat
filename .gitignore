@@ -1,0 +1,16 @@
+
+*.json
+*.props
+*.cache
+bin/Debug/netcoreapp3.1/Atividade_DoNotRepeat
+bin/Debug/netcoreapp3.1/Atividade_DoNotRepeat.dll
+bin/Debug/netcoreapp3.1/Atividade_DoNotRepeat.pdb
+obj/Atividade_DoNotRepeat.csproj.nuget.g.targets
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/apphost
+obj/Debug/netcoreapp3.1/Atividade_DoNotRepeat.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/Atividade_DoNotRepeat.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/Atividade_DoNotRepeat.dll
+obj/Debug/netcoreapp3.1/Atividade_DoNotRepeat.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/netcoreapp3.1/Atividade_DoNotRepeat.pdb
+.vs/Atividade_DoNotRepeat/xs/UserPrefs.xml
